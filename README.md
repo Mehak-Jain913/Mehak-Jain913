@@ -3,8 +3,8 @@
 
 Email Me 👉 ✉️ **mehakj536@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** Portal For Innovation Excellence Indicator 
-- 🌱 **I’m currently learning:** Java Backend || DSA
+- 🔭 **I’m currently working on:** Full Stack Projects 
+- 🌱 **I’m currently learning:** Java Backend || Springboot || DSA
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** mehakj536@gmail.com
 - 😄 **Pronouns:** Mehak
